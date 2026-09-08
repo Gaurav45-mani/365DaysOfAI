@@ -1,4 +1,4 @@
-📊 Day 24 – Introduction to Machine Learning: AI Ecosystem & Learning Paradigms
+📊 Day 27 – Introduction to Machine Learning: AI Ecosystem & Learning Paradigms
 
 📅 Date
 
