@@ -1,8 +1,6 @@
 📊 Day 35 – Outlier Detection Using 5-Number Summary & IQR Fencing
 
-📅 Date
-
-16 September 2026
+15 September 2026
 
 📚 Topics Covered
 
